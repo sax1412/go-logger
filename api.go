@@ -3,7 +3,7 @@ package go_logger
 import (
 	"errors"
 	"fmt"
-	"github.com/phachon/go-logger/utils"
+	"github.com/sax1412/go-logger/utils"
 	"reflect"
 	"strconv"
 )
